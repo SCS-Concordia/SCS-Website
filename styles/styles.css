@@ -1,3 +1,23 @@
+#footer_logo {
+  width: 600px;
+  height: 100px;
+}
+
+#sponsor_logo {
+  width: 600px;
+  height: 100px;
+}
+
+footer {
+  background-color: #e0cbef;
+  width: 100%
+}
+
+.footer-box {
+  float: center;
+  box-sizing: border-box;
+}
+
 @media (min-width: 1000px) {
 .secondary-background {
   /* background-color: #a488e3; */
@@ -44,4 +64,12 @@
   transform: translate(-50%, -50%);
   color: white;
 }
+}
+@media (max-width: 1400px) {
+  #footer_logo {
+    width: 100px;
+  }
+  #sponsor_logo {
+    max-width: 100%;
+  }
 }
