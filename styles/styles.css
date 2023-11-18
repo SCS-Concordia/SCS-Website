@@ -1,12 +1,30 @@
-#footer_logo {
-  width: 600px;
-  height: 100px;
+@media (max-width: 531px) {
+  footer .col-md-5 {
+    text-align: center;
+  }
+
+  footer .nav {
+    justify-content: center;
+  }
 }
 
-#sponsor_logo {
-  width: 600px;
-  height: 100px;
+#Sponsors {
+  background-color: #acd9a1;
 }
+
+#Sponsors h3 {
+    font-weight: bold;
+    text-align: left;
+  }
+
+.sponsor-section {
+    margin-top: 20px;
+    padding: 20px;
+  }
+
+.sponsor-logo {
+    margin: 50px;
+  }
 
 footer {
   background-color: #e0cbef;
@@ -64,12 +82,4 @@ footer {
   transform: translate(-50%, -50%);
   color: white;
 }
-}
-@media (max-width: 1400px) {
-  #footer_logo {
-    width: 100px;
-  }
-  #sponsor_logo {
-    max-width: 100%;
-  }
 }
