@@ -9,6 +9,7 @@
 }
 
 #Sponsors h3 {
+    font-weight: bold;
     text-align: center;
   }
 
@@ -17,27 +18,58 @@
     padding: 20px;
   }
 
+.sponsor-logos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+.sponsor-row {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: 25px;
+  }
+
 .sponsor-logo {
-    margin: 50px;
+    margin: 40px;
   }
 
 @media (max-width: 1000px) {
     #ubisoft {
-      height: 100px;
+      height: 120px;
     }
 
     #accenture {
-      max-height: 50px;
+      max-height: 40px;
     }
 
     #conseil {
-      max-height: 60px;
+      max-height: 50px;
     }
-    
+
     .sponsor-logo {
         margin: 20px;
       }
   }
+
+  @media (max-width: 400px) {
+    #ubisoft {
+      height: 80px;
+    }
+
+    #accenture {
+      max-height: 25px;
+    }
+
+    #conseil {
+      max-height: 30px;
+    }
+      .sponsor-logo {
+          margin: 10px;
+        }
+    }
 
 footer {
   background-color: #e0cbef;
