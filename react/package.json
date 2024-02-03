@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.33",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
