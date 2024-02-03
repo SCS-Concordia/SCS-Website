@@ -3,8 +3,9 @@
 # To do:
 **Note: When making each component, make sure to make it responsive (refer to designs on Figma)**  
 
+### Current:
 - [x] - Create react project with file layout
-- [ ] - Migrate Kevins HTML code to react - ** Proving to be a problem because of custom CSS due to locofy
+- [ ] Import custom fonts for use with tailwind
 - [ ] - Create individual pages with custom components based on the Figma design
     - [ ] - Nav bar
     - [ ] - Footer
@@ -21,9 +22,10 @@
     - [ ] - Meet the team - Salman
         - [ ] - Card component for each team member
         - [ ] - Component for each team
-
+### Backlog (to be done later):
 - [ ] - Figure out routing 
-- [ ] - Add SEO tags 
+- [ ] - Add SEO tags
+- [ ] - Fix the background gradient in case it isn't right
 
 ## How to run the project:
 - This project is created using Vite `npm create vite@latest`.
