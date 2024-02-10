@@ -7,7 +7,7 @@
 - [x] - Create react project with file layout
 - [x] Import custom fonts for use with tailwind
 - [ ] - Create individual pages with custom components based on the Figma design
-    - [ ] - Nav bar (Hisham)
+    - [x] - Nav bar (Hisham) **Responsiveness to be worked on
     - [ ] - Footer (Hisham)
     - [ ] - Home page
         - [ ] - Hero section
