@@ -5,10 +5,10 @@
 
 ### Current:
 - [x] - Create react project with file layout
-- [ ] Import custom fonts for use with tailwind
+- [x] Import custom fonts for use with tailwind
 - [ ] - Create individual pages with custom components based on the Figma design
-    - [ ] - Nav bar
-    - [ ] - Footer
+    - [ ] - Nav bar (Hisham)
+    - [ ] - Footer (Hisham)
     - [ ] - Home page
         - [ ] - Hero section
         - [ ] - About section
