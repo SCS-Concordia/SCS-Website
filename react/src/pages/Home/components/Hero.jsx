@@ -4,8 +4,8 @@ function Hero() {
   return (
     <div className='flex m-8'>
       
-      <div>
-      <img src="./assets/graphics/herotext.png" className="" alt="Concordia Building" />
+      <div className="">
+      <img src="./assets/graphics/herotext3.png" className="h-96" alt="Concordia Building" />
       </div>
 
       <div className='ml-auto'>
