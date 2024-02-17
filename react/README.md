@@ -9,18 +9,26 @@
 - **Create individual pages with custom components based on the Figma design**
     - [x] - Nav bar (Hisham) **Finished but responsiveness to be worked on
     - [ ] - Home page
+        - [x] - UI Design (Maesha)
         - [ ] - Hero section (Hisham) **Almost done
         - [ ] - About section (Hisham) 
         - [ ] - Past events (Hisham) 
         - [ ] - Meet the team
         - [ ] - Our Sponsors
         - [ ] - Contact us**
-    - [ ] - Events page 
+        - [x] - Mobile UI (Maesha)
+    - [ ] - Events page
+        - [ ]   UI Design (Maesha)  
         - [ ] - Calendar that opens the event details to the right when clicked, as shown in design
         - [ ] - Drop down accordion showing all events with pagination, showing 5 events only at a time
+        - [ ] - Mobile UI (Maesha)
     - [ ] - **Meet the team** (Salman)
+        - [x] - UI Design (Maesha)
         - [ ] - Card component for each team member
         - [ ] - Component for each team
+        - [ ] - Mobile UI (Maesha)
+    - [ ] - Algotime
+        - [ ] - UI Design (Maesha)
      - [ ] - Footer 
 ### Backlog (to be done later):
 - [ ] - Figure out routing 
