@@ -13,9 +13,9 @@
         - [ ] - Hero section (Hisham) **Almost done
         - [ ] - About section (Hisham) 
         - [ ] - Past events (Hisham) 
-        - [ ] - Meet the team
-        - [ ] - Our Sponsors
-        - [ ] - Contact us**
+        - [ ] - Meet the team (Kevin)
+        - [ ] - Our Sponsors (Kevin)
+        - [ ] - Contact us** (Kevin)
         - [x] - Mobile UI (Maesha)
     - [ ] - Events page
         - [ ]   UI Design (Maesha)  
@@ -29,7 +29,7 @@
         - [ ] - Mobile UI (Maesha)
     - [ ] - Algotime
         - [ ] - UI Design (Maesha)
-     - [ ] - Footer 
+     - [ ] - Footer (Kevin)
 ### Backlog (to be done later):
 - [ ] - Figure out routing 
 - [ ] - Add SEO tags
