@@ -1,0 +1,29 @@
+.events-container {
+    padding: 20px;
+    background-color: #f5f5f5;
+}
+
+.events-title {
+    text-align: center;
+    color: #333;
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.events-content {
+    display: flex;
+    justify-content: space-around;
+}
+
+.calendar-container {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.event-details {
+    flex: 1;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
