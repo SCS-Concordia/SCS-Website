@@ -19,8 +19,8 @@
         - [x] - Mobile UI (Maesha)
     - [ ] - Events page
         - [ ]   UI Design (Maesha)  
-        - [ ] - Calendar that opens the event details to the right when clicked, as shown in design
-        - [ ] - Drop down accordion showing all events with pagination, showing 5 events only at a time
+        - [ ] - Calendar that opens the event details to the right when clicked, as shown in design (Hassan)
+        - [ ] - Drop down accordion showing all events with pagination, showing 5 events only at a time (Hassan)
         - [ ] - Mobile UI (Maesha)
     - [ ] - **Meet the team** (Salman)
         - [x] - UI Design (Maesha)
