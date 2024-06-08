@@ -24,7 +24,7 @@ function Hero() {
       <motion.div initial={{x: "100%" }} animate={{ x: "-5%" }} transition={{duration: 0.7}}>
       <div className=''>
         <img src="./assets/graphics/concbuilding.png" className="" alt="Concordia Building" />
-        <span className=''>Sign up to newsletter</span>
+        <span className=''><a href="https://scsconcordia.us12.list-manage.com/subscribe?u=4c052a132d5eb23fe2e2712b9&id=22644f4443">Sign up to newsletter</a></span>
       </div>
       </motion.div>
     
