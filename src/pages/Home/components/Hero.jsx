@@ -24,7 +24,11 @@ function Hero() {
       <motion.div initial={{x: "100%" }} animate={{ x: "-5%" }} transition={{duration: 0.7}}>
       <div className=''>
         <img src="./assets/graphics/concbuilding.png" className="" alt="Concordia Building" />
-        <span className=''><a href="https://scsconcordia.us12.list-manage.com/subscribe?u=4c052a132d5eb23fe2e2712b9&id=22644f4443">Sign up to newsletter</a></span>
+        <a className='p-5 m-5 flex w-fit gap-12 justify-between border border-black bg-gray-300 rounded-2xl' 
+          href="https://scsconcordia.us12.list-manage.com/subscribe?u=4c052a132d5eb23fe2e2712b9&id=22644f4443">
+          <p className='font-mono text-xs text-gray-600'>Sign Up for Our Newsletter</p>
+          <img src='./assets/icons/arrow1.svg'></img>
+        </a>
       </div>
       </motion.div>
     
