@@ -17,10 +17,10 @@ function Nav() {
             </div>
             {/* Primary Navbar items */}
             <div className="hidden md:flex items-center space-x-6 text-lg">
-            <a href="#" className={`block font-robotoMono font-medium py-2 px-3 text-white rounded hover:text-gray-600 md:hover:bg-transparent md:border-0 md:p-0 `}>ABOUT</a>
-            <a href="#" className={`block font-robotoMono font-medium py-2 px-3 text-white rounded hover:text-gray-600 md:hover:bg-transparent md:border-0 md:p-0 `}>SPONSORS</a>
-            <a href="#" className={`block font-robotoMono font-medium py-2 px-3 text-white rounded hover:text-gray-600 md:hover:bg-transparent md:border-0 md:p-0 `}>EVENTS</a>
-            <a href="#" className={`block font-robotoMono font-medium py-2 px-3 text-white rounded hover:text-gray-600 md:hover:bg-transparent md:border-0 md:p-0 `}>ALGOTIME</a>
+            <a href="#about-section" className={`block font-robotoMono font-medium py-2 px-3 text-white rounded hover:text-gray-600 md:hover:bg-transparent md:border-0 md:p-0`}>ABOUT</a>
+            <a href="#" className={`block font-robotoMono font-medium py-2 px-3 text-white rounded hover:text-gray-600 md:hover:bg-transparent md:border-0 md:p-0`}>SPONSORS</a>
+            <a href="#" className={`block font-robotoMono font-medium py-2 px-3 text-white rounded hover:text-gray-600 md:hover:bg-transparent md:border-0 md:p-0`}>EVENTS</a>
+            <a href="#" className={`block font-robotoMono font-medium py-2 px-3 text-white rounded hover:text-gray-600 md:hover:bg-transparent md:border-0 md:p-0`}>ALGOTIME</a>
             
             </div>
           </div>
