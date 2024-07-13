@@ -1,10 +1,7 @@
-import React from 'react'
-
+import React from "react";
 
 function Events() {
-  return (
-    <h1>EVENTS PLACEHOLDER</h1>
-  )
+  return <h1>EVENTS PLACEHOLDER</h1>;
 }
 
-export default Events
+export default Events;
