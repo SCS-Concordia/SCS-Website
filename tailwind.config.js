@@ -10,6 +10,7 @@ export default {
       colors: {
         'light-purple': '#C0ACEE',
         'dark-purple': '#765CBA',
+        'light-green': '#AAFFC7',
       },
       fontFamily: {
         robotoMono: ['"Roboto Mono"', 'serif'],
