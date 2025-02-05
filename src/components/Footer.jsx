@@ -11,7 +11,7 @@ function Footer() {
               {/* Website Logo */}
               <a href="#" className="flex items-center py-4 px-2">
                 <img
-                  src="./assets/icons/scslogo.png"
+                  src="/src/assets/icons/scslogo.png"
                   className="h-14 ml-2.5"
                   alt="SCS Logo"
                 />
