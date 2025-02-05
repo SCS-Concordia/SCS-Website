@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import "./events.css"; // Ensure this CSS is imported correctly
-import csgames2 from "../../public/assets/events/csgames2.jpg";
-import test_banner from "../../public/assets/events/test_banner.jpg";
-import wine from "../../public/assets/events/wineandcheese.jpg";
-import workshop from "../../public/assets/events/workshop.jpg";
+import csgames2 from "/src/assets/events/csgames2.jpg";
+import test_banner from "/src/assets/events/test_banner.jpg";
+import wine from "/src/assets/events/wine&cheese.jpg";
+import workshop from "/src/assets/events/workshop.jpg";
 
 const images = [
   {

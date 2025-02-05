@@ -12,7 +12,7 @@ function Sponsors() {
       // We don't have any at time of commenting this out
       // The code is only half-done since I didn't have one to try
       // <div className="flex items-center justify-center">
-      //   <Sponsor size={300} sponsor="../assets/sponsor_graphics/Ubisoft_logo.png" />
+      //   <Sponsor size={300} sponsor="/src/assets/sponsor_graphics/Ubisoft_logo.png" />
       // </div>
       // <div className="flex items-center justify-center">
       //   <Sponsor size={250} />

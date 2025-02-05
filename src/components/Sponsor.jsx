@@ -15,7 +15,7 @@ function Sponsor({ size, sponsor }) {
         className="m-4"
         width={size}
         height={size}
-        src="./assets/graphics/sponsordrop.png"
+        src="/src/assets/graphics/sponsordrop.png"
       />
     </div>
   );

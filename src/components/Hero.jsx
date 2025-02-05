@@ -31,7 +31,7 @@ function Hero() {
       >
         <div className="">
           <img
-            src="./assets/graphics/concbuilding.png"
+            src="/src/assets/graphics/concbuilding.png"
             className=""
             alt="Concordia Building"
           />
@@ -42,7 +42,7 @@ function Hero() {
             <p className="font-mono text-xs text-gray-600">
               Sign Up for Our Newsletter
             </p>
-            <img src="./assets/icons/arrow1.svg"></img>
+            <img src="/src/assets/icons/arrow1.svg"></img>
           </a>
         </div>
       </motion.div>
