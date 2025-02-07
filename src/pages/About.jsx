@@ -12,7 +12,7 @@ function About() {
           WHO WE ARE
         </h1>
         <p className="font-CutiveMono text-[1.4em] leading-tight">
-          We are a dedicated group of students leading the Software Engineering and Computer Science Club on campus. Our mission is to enhance student life by creating a vibrant community for those passionate about technology and programming. Through our club, we organize a variety of events, including workshops, hackathons, and networking sessions, aimed at providing valuable opportunities for skill development, collaboration, and knowledge sharing. We welcome students of all backgrounds and experience levels to join us in our journey to explore the world of software engineering and computer science. 
+          We are a dedicated group of students leading the Software Engineering and Computer Science Club on campus. Our mission is to enhance student life by creating a vibrant community for those passionate about technology and programming. Through our club, we organize a variety of events, including workshops, hackathons, and networking sessions, aimed at providing valuable opportunities for skill development, collaboration, and knowledge sharing.
         </p>
       </div>
     </div>
