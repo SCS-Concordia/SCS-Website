@@ -1,11 +1,12 @@
 import React from "react";
+import groupPhoto from "/src/assets/pictures/group-photo.png"
 
 function About() {
   return (
     <div className="flex m-8 items-center justify-center gap-x-12">
       <img 
         className="flex-1 m-4 w-96"
-        src="/src/assets/pictures/group-photo.png"
+        src={groupPhoto}
       />
       <div className="flex-1 text-center">
         <h1 id="about-section" className="p-4 font-JetBrainsMono">

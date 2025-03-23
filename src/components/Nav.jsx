@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import Links from "./Links";
 
+import logo from "/src/assets/icons/scslogo.png";
+
 function Nav() {
   const [isMobileMenuOpen, setMobileMenuOpen] = useState(false);
   return (
@@ -12,11 +14,10 @@ function Nav() {
               {/* Website Logo */}
               <a href="#" className="flex items-center py-4 px-2">
                 <img
-                  src="/src/assets/icons/scslogo.png"
+                  src={logo}
                   className="h-14 ml-2.5"
                   alt="SCS Logo"
                 />
-                {/* <span className="font-semibold text-gray-500 text-lg">LOGO</span> */}
               </a>
             </div>
             {/* Primary Navbar items */}
@@ -28,19 +29,19 @@ function Nav() {
                 ABOUT
               </a>
               <a
-                href="#"
+                href="#sponsors-section"
                 className={`block font-robotoMono font-medium py-2 px-3 text-white rounded hover:text-gray-600 md:hover:bg-transparent md:border-0 md:p-0`}
               >
                 SPONSORS
               </a>
               <a
-                href="#"
+                href="#events-section"
                 className={`block font-robotoMono font-medium py-2 px-3 text-white rounded hover:text-gray-600 md:hover:bg-transparent md:border-0 md:p-0`}
               >
                 EVENTS
               </a>
               <a
-                href="#"
+                href="#algotime-section"
                 className={`block font-robotoMono font-medium py-2 px-3 text-white rounded hover:text-gray-600 md:hover:bg-transparent md:border-0 md:p-0`}
               >
                 ALGOTIME

@@ -4,7 +4,7 @@ import Sponsor from "../components/Sponsor.jsx";
 function Sponsors() {
   return (
     <div className="m-8 text-center items-center justify-center">
-      <h1 id="about-section" className="p-4 font-JetBrainsMono drop-shadow-md">
+      <h1 id="sponsors-section" className="p-4 font-JetBrainsMono drop-shadow-md">
         OUR SPONSORS
       </h1>
       <p>Coming Soon</p>
