@@ -1,6 +1,8 @@
 import React from "react";
 import Links from "./Links";
 
+import logo from "/src/assets/icons/scslogo.png"
+
 function Footer() {
   return (
     <nav className="bg-light-green">
@@ -11,7 +13,7 @@ function Footer() {
               {/* Website Logo */}
               <a href="#" className="flex items-center py-4 px-2">
                 <img
-                  src="/src/assets/icons/scslogo.png"
+                  src={logo}
                   className="h-14 ml-2.5"
                   alt="SCS Logo"
                 />

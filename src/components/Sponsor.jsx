@@ -1,5 +1,7 @@
 import React from "react";
 
+import drop from "/src/assets/graphics/sponsordrop.png";
+
 function Sponsor({ size, sponsor }) {
   return (
     <div>
@@ -15,7 +17,7 @@ function Sponsor({ size, sponsor }) {
         className="m-4"
         width={size}
         height={size}
-        src="/src/assets/graphics/sponsordrop.png"
+        src={drop}
       />
     </div>
   );

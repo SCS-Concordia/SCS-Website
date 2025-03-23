@@ -2,6 +2,9 @@ import React from "react";
 import "../index.css";
 import { motion } from "framer-motion";
 
+import building from "/src/assets/graphics/concbuilding.png";
+import arrow from "/src/assets/icons/arrow1.svg";
+
 function Hero() {
   return (
     <div className="flex m-8 items-center justify-center gap-x-12">
@@ -31,7 +34,7 @@ function Hero() {
       >
         <div className="">
           <img
-            src="/src/assets/graphics/concbuilding.png"
+            src={building}
             className=""
             alt="Concordia Building"
           />
@@ -42,7 +45,7 @@ function Hero() {
             <p className="font-mono text-xs text-gray-600">
               Sign Up for Our Newsletter
             </p>
-            <img src="/src/assets/icons/arrow1.svg"></img>
+            <img src={arrow}></img>
           </a>
         </div>
       </motion.div>

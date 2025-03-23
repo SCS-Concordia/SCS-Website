@@ -50,7 +50,7 @@ const Events = () => {
   return (
     <>
       <div style={{ textAlign: "center" }}>
-        <h1 id="about-section" className="p-4 font-JetBrainsMono">
+        <h1 id="events-section" className="p-4 font-JetBrainsMono">
           OUR PAST EVENTS
         </h1>
       </div>
