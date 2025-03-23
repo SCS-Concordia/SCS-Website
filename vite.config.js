@@ -4,6 +4,7 @@ import postcss from './postcss.config.cjs'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: "/SCS-Website/",
   define: {
     'process.env': process.env
   },
